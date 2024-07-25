@@ -1,7 +1,5 @@
 # Hi there, I'm Manan Kansara 👋
 
-![Banner Image](https://avatars.githubusercontent.com/u/61078118?v=4)
-
 ## About Me
 
 I am a passionate and dedicated Full Stack Developer with a knack for creating efficient and scalable solutions. With a strong foundation in both frontend and backend technologies, I thrive in building applications and services that impact millions of users daily. Currently, I'm enhancing my skills and aiming to achieve financial success through trading.
